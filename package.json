@@ -90,6 +90,6 @@
     "markdown-it-synapse-math": "^3.0.4",
     "markdown-it-synapse-table": "^1.0.6",
     "prettier": "2.0.5",
-    "sanitize-html": "^1.18.4"
+    "sanitize-html": "^2.3.2"
   }
 }
